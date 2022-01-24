@@ -2,4 +2,4 @@
 layout: about
 ---
 
-Please check out [huangyz.name](https://huangyz.name) for more information.
+Please check out [ramses.eth](https://ramses.eth) for more information.
