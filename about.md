@@ -2,4 +2,4 @@
 layout: about
 ---
 
-Please check out [ramses.eth](https://ramses.eth) for more information.
+Please check out [ramses.github.io](https://ramses.github.io) for more information.
